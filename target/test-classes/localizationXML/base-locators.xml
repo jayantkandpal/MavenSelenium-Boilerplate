@@ -1,0 +1,4 @@
+<base-locators>
+	<local>base</local>
+	<gmailBtn>//*[@id="gbw"]/div/div/div[1]/div[1]/</gmailBtn>
+</base-locators>

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.872 s <<< FAILURE! - in TestSuite
+initiatlizeDriver(com.selenium.script.TestScript)  Time elapsed: 0.803 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: /Users/ektayadav/Documents/Ekta/workspace/MavenSelenium-Boilerplate/src/test/resources/driverschromedriver
+

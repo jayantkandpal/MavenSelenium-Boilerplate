@@ -1,0 +1,13 @@
+<suite thread-count="1" name="Suite-Patient-Regression">
+
+	 <test name="PR-TestPatientLogin">
+<!-- 		<method-selectors>
+			<method-selector>
+				<script language="beanshell"><![CDATA[groups.containsKey("Patient") && groups.containsKey("Regression")]]></script>
+			</method-selector>
+		</method-selectors> -->
+		<classes>
+			<class name="com.selenium.script.TestScript"></class>
+		</classes>
+	</test>
+</suite>
